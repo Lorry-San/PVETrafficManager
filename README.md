@@ -27,9 +27,7 @@
 
 ### 1. 本地部署
 ```bash
-mkdir -p /usr/lib/pve_monitor
-# 将 pve_monitor.py 放置在此目录下
-python3 /usr/lib/pve_monitor/pve_monitor.py
+bash <(https://github.com/Lorry-San/PVETrafficManager/raw/refs/heads/main/install.sh)
 ```
 
 ---
